@@ -51,6 +51,3 @@ async function fetchAndDisplayRandomRecipe() {
 
 
 // When the page loads, show a random recipe right away
-document.addEventListener("DOMContentLoaded", () => {
-  fetchAndDisplayRandomRecipe();
-});
